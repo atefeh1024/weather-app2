@@ -1,3 +1,51 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.shadow {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  padding-left: 90px;
+  margin-top: 120px;
+  background-color: #a9bfd3;
+}
 h1 {
-  color: brown;
+  color: rgb(87, 83, 83);
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  padding-right: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+form {
+  margin-left: 10px;
+}
+input {
+  display: inline;
+  width: 180px;
+}
+.city {
+  font-size: 36px;
+}
+.emoji {
+  margin-right: -20px;
+}
+.tempe {
+  font-size: 46px;
+  line-height: 1.2;
+}
+.units {
+  font-size: small;
+  position: relative;
+  top: -34px;
+}
+.github {
+  top: -50px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+.link {
+  color: rgb(240, 231, 231);
 }
