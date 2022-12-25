@@ -19,11 +19,13 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
 }
 form {
-  margin-left: 10px;
+  display: inline;
+  margin-left: 0px;
+  width: 80px;
 }
 input {
   display: inline;
-  width: 180px;
+  width: 120px;
 }
 .city {
   font-size: 36px;
@@ -48,4 +50,7 @@ input {
 }
 .link {
   color: rgb(240, 231, 231);
+}
+#search-city {
+  width: 400px;
 }
