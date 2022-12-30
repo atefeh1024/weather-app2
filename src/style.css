@@ -38,7 +38,7 @@ input {
   line-height: 1.2;
 }
 .units {
-  font-size: small;
+  font-size: 15px;
   position: relative;
   top: -34px;
 }
