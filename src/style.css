@@ -54,3 +54,10 @@ input {
 #search-city {
   width: 400px;
 }
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+.forecast-img {
+  size: 20px;
+}
